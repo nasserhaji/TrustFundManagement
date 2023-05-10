@@ -34,8 +34,8 @@ git clone https://github.com/hajihashemabad/TrustFundManagement.git
 3. Compile the smart contract using the Solidity compiler.
 
 4. Deploy the compiled contract to the Ethereum blockchain using your preferred development framework (Truffle, Remix, etc.) or interact with it via a client library (Web3.js, ethers.js, etc.).
-5. Implement the verifyProof function in the smart contract, using a Python zkp library (e.g., ZoKrates), to verify the zero-knowledge proof. Replace the placeholder implementation with the actual logic for verifying the proof.
-6. Update the contract with the actual zero-knowledge proof verification logic in the verifyProof function.
+5. Implement the `verifyProof` function in the smart contract, using a Python zkp library (e.g., ZoKrates), to verify the zero-knowledge proof. Replace the placeholder implementation with the actual logic for verifying the proof.
+6. Update the contract with the actual zero-knowledge proof verification logic in the `verifyProof` function.
 7. Test the contract by registering users, logging in, storing documents, and retrieving documents.
 
 ## Usage
