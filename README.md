@@ -49,6 +49,7 @@ The following functions are available in the smart contract:
 - `retrieveDocument()`: Allows logged-in users to retrieve their stored documents.
 
 ## Contributing
+I welcome contributions to the TrustFundManagement project! If you'd like to contribute, please fork the repository and create a new branch for your changes. Once you've made your changes, submit a pull request and I'll review it as soon as possible.
 
 Contributions are welcome! If you want to contribute to this project, follow these steps:
 
@@ -69,9 +70,6 @@ This project is licensed under the [MIT License](LICENSE).
 - The Solidity programming language for smart contract development.
 - Ethereum for providing the blockchain platform.
 - The open-source community for their contributions and support.
-
-## Contributing
-I welcome contributions to the TrustFundManagement project! If you'd like to contribute, please fork the repository and create a new branch for your changes. Once you've made your changes, submit a pull request and I'll review it as soon as possible.
 
 ## Authors
 - [Abdelnasser Hajihashemabad](https://github.com/hajihashemabad)
