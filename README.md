@@ -72,7 +72,7 @@ This project is licensed under the [MIT License](LICENSE).
 - The open-source community for their contributions and support.
 
 ## Authors
-- [Mohammad Nasser Haji](https://mohammadnasser.com)
+- [Mohammad Nasser Haji hashemabad](https://mohammadnasser.com)
 
 ## Contact
 If you have any questions or comments about Trust Fund Management Smart Contract, feel free to reach out to me at [Email](mailto:info@mohammadnasser.com).
